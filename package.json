@@ -1,0 +1,29 @@
+{
+  "name": "plugin-dust",
+  "version": "0.0.1",
+  "description": "DustJS template loader plugin for SystemJS",
+  "main": "dust",
+  "files": [
+    "dust.js"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HallM/plugin-dust.git"
+  },
+  "keywords": [
+    "jspm",
+    "dustjs",
+    "loader",
+    "plugin"
+  ],
+  "author": "Matt Hall <mdhall@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HallM/plugin-dust/issues"
+  },
+  "homepage": "https://github.com/HallM/plugin-dust",
+  "devDependencies": {
+  }
+}
